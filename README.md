@@ -9,7 +9,10 @@
 用法：
 
 > usage: main.py [-h] [-u URL] [-f FILES]
+
 > python main.py -u baidu.com
+
 ![图片alt](https://github.com/lodyh513/query_tools/blob/main/img/1.png)
 > python main.py -f test.txt
+
 ![图片alt](https://github.com/lodyh513/query_tools/blob/main/img/2.png)
