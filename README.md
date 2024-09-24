@@ -7,9 +7,9 @@
 > pip install -r requirements.txt
 
 用法：
-usage: main.py [-h] [-u URL] [-f FILES]
-options:
-  -h, --help            show this help message and exit
-  -u URL, --url URL     指定目标URL
-  -f FILES, --files FILES
-                        指定目标txt文件，一行一个
+
+> usage: main.py [-h] [-u URL] [-f FILES]
+> python main.py -u baidu.com
+![图片alt](https://github.com/lodyh513/query_tools/blob/main/img/1.png)
+> python main.py -f test.txt
+![图片alt](https://github.com/lodyh513/query_tools/blob/main/img/2.png)
